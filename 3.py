@@ -2,7 +2,7 @@ a = 50
 b = 10
 my_name = "amir"
 if a < 10:
-    print("you are amir")
+    print("you are amir cohen")
     print("hello")
     print("world")
 elif my_name == "amir":
